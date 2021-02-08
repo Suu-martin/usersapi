@@ -24,6 +24,7 @@
       "typeorm": "0.2.30"
    },
    "scripts": {
+      "start": "node index.ts",
       "tsc": "tsc",
       "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts"
    }
